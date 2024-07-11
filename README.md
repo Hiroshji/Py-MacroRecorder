@@ -5,7 +5,7 @@ MacroRecorder - A Python-based tool to record and replay keyboard and mouse acti
 # MacroRecorder
 
 ## Overview
-MacroRecorder is a Python-based tool designed to record and replay keyboard and mouse actions. This project leverages the `pynput` library for capturing and simulating input events and provides a simple user interface using `Tkinter`. The tool is ideal for automating repetitive tasks and can be customized to suit various automation needs.
+MacroRecorder is a Python-based tool designed to record and replay keyboard and mouse actions. This project uses the `pynput` library for capturing and replaying input events and provides a simple user interface using `Tkinter`.
 
 ## Features
 - **Record Keyboard and Mouse Events**: Capture all keyboard presses/releases and mouse movements/clicks.
