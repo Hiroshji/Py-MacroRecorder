@@ -1,4 +1,4 @@
-# Python---Macro-Recorder
+# Python-Macro-Recorder
 MacroRecorder - A Python-based tool to record and replay keyboard and mouse actions with a simple Tkinter interface.
 
 
@@ -46,7 +46,4 @@ MacroRecorder is a Python-based tool designed to record and replay keyboard and 
 - **Customizable Hotkeys**: Allow users to customize hotkeys for starting, stopping, and replaying.
 - **Advanced Event Editing**: Provide an interface to edit recorded events before replaying.
 - **Event Filtering**: Enable filtering of specific types of events (e.g., only keyboard or only mouse).
-  - **color recognition**: Select a point/area of the screen for when it sees a specific color it starts a specific action decided previously by the user.
-
-## Contributing
-Contributions are welcome! If you have any ideas, feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+- **color recognition**: Select a point/area of the screen for when it sees a specific color it starts a specific action decided previously by the user.
